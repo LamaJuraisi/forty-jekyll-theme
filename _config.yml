@@ -1,19 +1,15 @@
-# site settings
-title: Lama's Protifolio
-subtitle:
-email: lama.juraisy@gmail.com
-description: Hi there! I’m Lama, a Business Analyst passionate about using data to drive insights and make a real impact. Throughout my career, I've worked on projects that blend strategic analysis with technical skills, like data visualization and automation. 
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+title: "Lama Aljuraisi's Portfolio"
+subtitle: "Business Analyst | Data Enthusiast"
+email: "laljurai@purdue.edu"
+description: "A portfolio showcasing projects, skills, and professional journey."
 
-# homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
-
-# social settings (key must match name of font awesome icon)
-# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
-# Icons are not shown if value is empty
-# You need to restart jekyll for changes to have an effect
+social:
+  linkedin: "https://linkedin.com/in/lamaaljuraisi"
+  github: "https://github.com/lamajuraisi"
+  
+# Tile or post settings (if needed for the theme’s homepage display)
+tiles-source: pages  # Options: "posts" or "pages"
+tiles-count: 6  # Number of tiles to display
 
 # build settings
 markdown: kramdown
