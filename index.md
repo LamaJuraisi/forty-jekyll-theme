@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Hi, my name is Lama'
 description: null
-image: null
+image: assets/images/banner2.jpg
 author: null
 show_tile: false
 ---
