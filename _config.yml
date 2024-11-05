@@ -1,8 +1,9 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Lama's Protifolio
+subtitle:
+email: lama.juraisy@gmail.com
+description: Hi there! I’m Lama, a Business Analyst passionate about using data to drive insights and make a real impact. 
+Throughout my career, I've worked on projects that blend strategic analysis with technical skills, like data visualization and automation. 
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -11,7 +12,7 @@ city: Nashville
 state: TN
 zip_code: 55555
 country: United States of America
-phone: (716) 555-5555
+phone: (765) 772-5693
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
