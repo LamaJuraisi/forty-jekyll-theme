@@ -5,13 +5,6 @@ email: lama.juraisy@gmail.com
 description: Hi there! I’m Lama, a Business Analyst passionate about using data to drive insights and make a real impact. Throughout my career, I've worked on projects that blend strategic analysis with technical skills, like data visualization and automation. 
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (765) 772-5693
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -21,15 +14,6 @@ tiles-count: 6
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
-socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
-  Slack:
 
 # build settings
 markdown: kramdown
