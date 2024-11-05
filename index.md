@@ -13,10 +13,3 @@ Hi there! I’m Lama, a business analyst passionate about using data to drive in
 In this portfolio, you’ll see some of my key projects and insights gained along the way, from consulting internships to data-driven analyses. Whether it's creating dashboards, analyzing market trends, or building strategies, I’m always excited to share the impact data can make.
 
 [Get Started](/projects)  <!-- Add a link to your projects section or another relevant page -->
-
-
-<div id="banner" style="background-image: url('/assets/images/banner2.jpg'); background-size: cover; background-position: center;">
-   <h1>{{ page.landing-title }}</h1>
-   <p>{{ page.description }}</p>
-</div>
-
